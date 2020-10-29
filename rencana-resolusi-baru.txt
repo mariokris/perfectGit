@@ -3,5 +3,6 @@ Rencana Resolusi yang belum pasti
 - Firebase
   *Crud Firebase
   *Notification Firebase
+ - Belajar function programming react native
 - Sql Lite
 - Android Native
