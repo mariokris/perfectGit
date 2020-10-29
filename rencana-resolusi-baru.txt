@@ -1,0 +1,5 @@
+Rencana Resolusi yang belum pasti
+
+- Firebase
+- Sql Lite
+- Android Native
