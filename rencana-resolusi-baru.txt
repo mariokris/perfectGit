@@ -5,4 +5,5 @@ Rencana Resolusi yang belum pasti
   *Notification Firebase
  - Belajar function programming react native
 - Sql Lite
+ *Belajar reAD DATA SAJA
 - Android Native
