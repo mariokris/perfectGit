@@ -1,3 +1,5 @@
 resolusi 2020 :
 - Pergilah kau Corona
 - Menjijikkan rasanya wfh dan kuliah daring
+- Implementasi firebase notification
+- Implementasi firebase crud
