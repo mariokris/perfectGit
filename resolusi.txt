@@ -1,5 +1,5 @@
 resolusi 2020 :
 - Pergilah kau Corona
-- Menjijikkan rasanya wfh dan kuliah daring
+- Belajar Flutter
 - Implementasi firebase notification
 - Implementasi firebase crud
