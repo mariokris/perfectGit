@@ -1,0 +1,7 @@
+Rencana Resolusi yang belum pasti
+
+- Firebase
+  *Crud Firebase
+  *Notification Firebase
+- Sql Lite
+- Android Native
