@@ -7,4 +7,5 @@ Rencana Resolusi yang belum pasti
  *Belajar Context
  *Belajar Menghilangkan Redux
 - Sql Lite
+ *Belajar CRUD sql lite
 - Android Native
